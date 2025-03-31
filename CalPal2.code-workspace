@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "CalPal2",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"CodeGPT.apiKey": "CodeGPT Plus"
+	}
+}
